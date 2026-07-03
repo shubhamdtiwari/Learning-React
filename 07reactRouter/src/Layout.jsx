@@ -1,7 +1,13 @@
 import React from "react";
+import Header from 
 
 function Layout() {
-  return <div>Layout</div>;
+  return (
+  <>
+    <Header />
+
+  </>
+ )
 }
 
 export default Layout;
