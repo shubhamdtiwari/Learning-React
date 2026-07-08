@@ -34,7 +34,7 @@ export default function Home() {
         <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
           <img
             className="w-96"
-            src="https://i.pinimg.com/736x/0a/38/be/0a38beea90b1dc5f562a0c4982fa5650.jpg"
+            src="https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373_1280.jpg"
             alt="image1"
           />
         </div>
