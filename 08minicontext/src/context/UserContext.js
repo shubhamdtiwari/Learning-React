@@ -6,5 +6,7 @@ export default UserContext;
 
 <>
   <Login />
-  <Card></Card>
+  <Card>
+    <Data />
+  </Card>
 </>;
